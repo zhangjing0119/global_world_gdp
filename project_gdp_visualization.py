@@ -1,7 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Filename: project_gdp_visualization.py
-# @Author: zhangjing
+
+#coding: utf-8
+"""
+综合项目：世行数据基本分类及其可视化
+作者：植产六班张静
+日期：2020/6/10
+"""
 import sys 
 reload(sys) 
 sys.setdefaultencoding('utf8') 
